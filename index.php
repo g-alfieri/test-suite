@@ -11,5 +11,5 @@
 	</li>
 
 </ol>
-<?php time(); ?>
+<?php echo(time()); ?>
 
