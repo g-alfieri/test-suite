@@ -1,5 +1,5 @@
 <?php
 
-echo("Hello World!! edited with notepad++!");
+echo("Hello World!! Edited with notepad++!");
 
 ?>
