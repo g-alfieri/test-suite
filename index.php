@@ -13,4 +13,6 @@
 </ol>
 <?php echo(time()); ?>
 
+<?php echo(date()); ?>
+
 exit
