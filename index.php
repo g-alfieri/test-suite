@@ -13,3 +13,4 @@
 </ol>
 <?php echo(time()); ?>
 
+exit
