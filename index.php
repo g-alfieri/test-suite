@@ -15,4 +15,4 @@
 
 <?php echo(date()); ?>
 
-exit
+exit1
