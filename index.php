@@ -7,7 +7,7 @@
 		<a>Installare plugin SVN in Notepad++</a>
 	</li>
 	<li>
-		<a>Configurare shortcut per il commit e l'add di svn (ctrl+alt+shift+s / a)</a>
+		<a>Configurare shortcuts per il commit e l'add di svn (ctrl+alt+shift+s / a)</a>
 	</li>
 
 </ol>
